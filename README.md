@@ -50,9 +50,12 @@
 
 للدعم أو تقديم الملاحظات أو إرسال نسخ صوتية بجودة أعلى، يرجى التواصل معنا عبر الروابط التالية:
 
-- 🌐 **الموقع الإلكتروني**: [رابط الموقع](#)
-- 📧 **البريد الإلكتروني**: [email@example.com](mailto:email@example.com)
-- 📱 **صفحة الفيسبوك**: [رابط الفيسبوك](#)
+- 🌐 **الموقع على GitHub**: [mp30quran على GitHub](https://github.com/mp30quran)
+- 📱 **قناتنا على Telegram**: [mp30qurantv على Telegram](https://t.me/mp30qurantv)
+- 📘 **صفحتنا على Facebook**: [mp30quran على Facebook](https://facebook.com/mp30quran)
+- 🛍️ **تطبيقاتنا على Google Play**: [Android Prof على Google Play](https://play.google.com/store/apps/developer?id=Android+Prof)
+- 🌍 **الموقع الإلكتروني**: [mp30quran - الموقع الرسمي](https://sites.google.com/view/mp30quran/home)
+- 💻 **صفحتنا على SourceForge**: [mp30quran على SourceForge](https://mp30quran.sourceforge.io/)
 
 ---
 
