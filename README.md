@@ -2,21 +2,10 @@
 
 # **القرآن الكريم - الحصري المعلم (بدون إعلانات)**
 
+## 🖼️ **صور التطبيق**
 
-![image](https://github.com/user-attachments/assets/39442723-f620-45c3-9f9d-bf5f037af0bd)
-![image](https://github.com/user-attachments/assets/6d35e435-acc6-4c9b-a016-727c964674d7)
-![image](https://github.com/user-attachments/assets/4a5e0efa-ecbf-4586-a2d9-574075dc0521)
-![image](https://github.com/user-attachments/assets/930000d8-c7d0-4278-ac9a-715c80d4b76f)
-![image](https://github.com/user-attachments/assets/1b73b82a-1b07-4749-95a9-d64bfe17c95f)
-![image](https://github.com/user-attachments/assets/3dec47b1-743f-4a15-b744-370e860ac83a)
-![image](https://github.com/user-attachments/assets/131a535c-b0f2-4dd9-b254-493a7ee6e63a)
-![image](https://github.com/user-attachments/assets/2511d69e-bb1b-474e-b90d-030a6514aae6)
-
-
-
-
-
-
+![أيقونة التطبيق](https://github.com/user-attachments/assets/39442723-f620-45c3-9f9d-bf5f037af0bd)
+![شعار التطبيق](https://github.com/user-attachments/assets/6d35e435-acc6-4c9b-a016-727c964674d7)
 
 **القرآن الكريم بصوت الشيخ الحصري المعلم مع ترديد الأطفال - بدون انترنت**  
 يوفر هذا التطبيق مجموعة من سور القرآن الكريم بصوت الشيخ الحصري، مع ترديد الأطفال لتسهيل الحفظ. التطبيق خالٍ تماماً من الإعلانات ويعمل بدون الحاجة للاتصال بالإنترنت.
@@ -47,16 +36,16 @@
 ## 📸 **لقطات شاشة التطبيق**
 
 ### الشاشة الرئيسية
-![الشاشة الرئيسية](https://github.com/user-attachments/assets/318b745a-20bb-4caf-a607-76f58cdf109e)
+![الشاشة الرئيسية](https://github.com/user-attachments/assets/4a5e0efa-ecbf-4586-a2d9-574075dc0521)
 
 ### شاشة التلاوة التفاعلية
-![الشاشة التفاعلية](https://github.com/user-attachments/assets/a150f322-bd32-4168-9eba-c39d45d3d77e)
+![الشاشة التفاعلية](https://github.com/user-attachments/assets/930000d8-c7d0-4278-ac9a-715c80d4b76f)
 
 ### تكرار الآيات والتلاوة
-![تكرار التلاوة](https://github.com/user-attachments/assets/2595be2a-9bb8-4300-b539-c7e7138cc326)
+![تكرار التلاوة](https://github.com/user-attachments/assets/1b73b82a-1b07-4749-95a9-d64bfe17c95f)
 
-### ممارسة الكتابة
-![ممارسة الكتابة](https://github.com/user-attachments/assets/21c858a7-2756-4683-8de7-47190db87708)
+###  تكرار الآيات والتلاوة
+![ممارسة الكتابة](https://github.com/user-attachments/assets/3dec47b1-743f-4a15-b744-370e860ac83a)
 
 ---
 
@@ -76,4 +65,3 @@
 ## 🙏 **لا تنسونا من الدعاء الصالح**
 
 **تطبيق القرآن الكريم - الحصري المعلم** يساعد الأطفال والبالغين على حفظ وتلاوة القرآن الكريم بسهولة. جزاكم الله خيراً على دعمكم.
-
