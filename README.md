@@ -3,7 +3,6 @@
 # **القرآن الكريم - الحصري المعلم اطفال (بدون إعلانات)**
 
 ## 🖼️ **صور التطبيق**
-![image](https://github.com/user-attachments/assets/c47ebdb3-7e74-4463-8654-a8880b1701c4)
 
 ![أيقونة التطبيق](https://github.com/user-attachments/assets/39442723-f620-45c3-9f9d-bf5f037af0bd)
 ![شعار التطبيق](https://github.com/user-attachments/assets/6d35e435-acc6-4c9b-a016-727c964674d7)
@@ -47,6 +46,8 @@
 
 ###  تكرار الآيات والتلاوة
 ![ممارسة الكتابة](https://github.com/user-attachments/assets/3dec47b1-743f-4a15-b744-370e860ac83a)
+![image](https://github.com/user-attachments/assets/c47ebdb3-7e74-4463-8654-a8880b1701c4)
+
 
 ---
 
