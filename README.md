@@ -61,6 +61,20 @@
 
 ###  تكرار الآيات والتلاوة
 ![ممارسة الكتابة](https://github.com/user-attachments/assets/3dec47b1-743f-4a15-b744-370e860ac83a)
+📖لتكرار المقطع للصوت في برنامج الحصري المعلم اطفال و غيرة
+اتبع الاتي
+قم بتصوير الشاشة عند سماع بداية الاية
+قم بتصوير الشاشة عند سماع نهاية الاية
+ضع الوقت في خانة التكرار كما هو موضح بالصور
+![image](https://github.com/user-attachments/assets/49c56076-0f0f-45c4-b532-541bc61667ca)
+
+![image](https://github.com/user-attachments/assets/532d58b0-1d7c-414e-a1b0-04637cdae725)
+
+![image](https://github.com/user-attachments/assets/b5ec4fcd-7503-4bdb-8021-6720c44408b1)
+
+![image](https://github.com/user-attachments/assets/3fe5aee5-0a42-479e-b89e-2d3d7037361c)
+
+
 ![image](https://github.com/user-attachments/assets/c47ebdb3-7e74-4463-8654-a8880b1701c4)
 
 ![Screenshot_1735547646](https://github.com/user-attachments/assets/6eb84f7c-01d8-4804-b43e-bc86b211d65a)
