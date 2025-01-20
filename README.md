@@ -17,6 +17,7 @@
 - نسخة تحتوي على سورة الواقعة إلى سورة الناس. [تحميل النسخة](https://github.com/mp30quran/alhosari-teacher-kids-offline)
 - نسخة تحتوي على القرآن الكريم كاملًا. [تحميل النسخة](https://github.com/mp30quran/hosry_molem_full)
 - نسخة تحتوي على بعض السور مع إمكانية تنزيل باقي السور من الإنترنت. [تحميل النسخة](https://github.com/mp30quran/hsry_molem_app)
+- نسخة من موقع هوااوي آب جاليري تحتوي على سورة الواقعة إلى سورة الناس مع إمكانية تنزيل باقي السور من الإنترنت. [تحميل النسخة] [رابط قسم الريليس](https://github.com/mp30quran/alhosari-teacher-kids-offline/releases)
 
 
 
