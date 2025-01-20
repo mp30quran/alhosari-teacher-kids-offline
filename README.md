@@ -19,6 +19,15 @@
 - نسخة تحتوي على بعض السور مع إمكانية تنزيل باقي السور من الإنترنت. [تحميل النسخة](https://github.com/mp30quran/hsry_molem_app)
 - نسخة من موقع هوااوي آب جاليري تحتوي على سورة الواقعة إلى سورة الناس مع إمكانية تنزيل باقي السور من الإنترنت. [تحميل النسخة] [رابط قسم الريليس](https://github.com/mp30quran/alhosari-teacher-kids-offline/releases)
 
+# **القرآن الكريم - الحصري المعلم أطفال (بدون إعلانات)**
+
+| النسخة               | المنصة                | رابط التحميل                                                                                         |
+|-----------------------|-----------------------|------------------------------------------------------------------------------------------------------|
+| نسخة Google Play      | جوجل بلاي            | [تحميل من Google Play](https://github.com/mp30quran/alhosari-teacher-kids-offline/releases/download/v1.10/alhosari-teacher-kids-offline_v1.10.apk) |
+| نسخة Huawei           | هواوي آب جاليري      | [تحميل من Huawei AppGallery](https://github.com/mp30quran/alhosari-teacher-kids-offline/releases/download/v1-huawei/alhosari-teacher-kids-offline-v1_huwai.apk) |
+| نسخة GitHub           | جيت هاب              | [تحميل من GitHub](https://github.com/mp30quran/hsry_molem_app/releases/download/v1.0/hsry_molem_app_v1.apk) |
+| نسخة Google Drive     | حجم كبير رابط عام            | [تحميل من Google Drive](https://drive.google.com/file/d/1xId9z2leBSxaSCeeiEvUOw8_Y38LxG2A/view?usp=sharing) |
+
 
 
 
